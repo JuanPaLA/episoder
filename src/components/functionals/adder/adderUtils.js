@@ -1,0 +1,38 @@
+export const items = [
+    {
+        id:0,
+        topic:'date',
+        pic:'tbd',
+    },
+    {
+        id:1,
+        topic:'fact',
+        pic:'tbd',
+    },
+    {   
+        id:2,
+        topic:'thought',
+        pic:'tbd',
+    },
+    {
+        id:3,
+        topic:'sensation',
+        pic:'tbd',
+    },
+    {
+        id:4,
+        topic:'emotion',
+        pic:'tbd',    
+    },
+    {
+        id:5,
+        topic:'response',
+        pic:'tbd',
+    },
+    {
+        id:6,
+        topic:'consequences',
+        pic:'tbd',
+    }
+]
+

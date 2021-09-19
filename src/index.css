@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#header{
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid black;
+  height: 11vh;
+}
+
+
+#adder{
+
+}
+
+.car-control{
+  color: red !important;
+  position: absolute !important;
+  bottom: -80% !important;
+  margin-right: 3.5vw;
+}
+
+.addIn{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 2vw 0 2vw;
+}
+
+#innerthoughts{
+  overflow-y: scroll;
+  margin-top: 1vh;
+  max-height: 275px;
+}
